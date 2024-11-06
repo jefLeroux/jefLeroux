@@ -24,9 +24,9 @@ I had the unique experience of participating in the cyberwarfare component of **
 - PostgreSQL database setup for future deployment possibilities
 - And many many more coming soon!
 
-### Machine Learning in C
+### Mlight
 
-A series of machine learning algorithms implemented in C, exploring the fundamentals of machine learning models at the ground level with a focus on performance and resource efficiency.
+A machine learning library in c 
 
 ### Personal Website
 

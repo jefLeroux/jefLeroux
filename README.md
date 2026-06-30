@@ -1,55 +1,23 @@
-# Hi there, I’m Jef Leroux 👋
+# Jef Leroux
 
-Welcome to my GitHub! I'm a passionate cybersecurity professional and developer, always excited to take on new challenges and expand my knowledge. Here, you'll find my projects centered around cybersecurity, web development, and machine learning.
+Security-focused graduate student in Computer Science, with an undergraduate background in cybersecurity. Particular interest in space and defense systems.
 
----
+I'm one of a small number of students nationally who has participated in Northern Strike, a NATO coalition cyberwarfare exercise run in genuine DoD training environments. That experience shaped my current focus: building practical security tooling and researching systems that matter when it counts.
 
-## About Me 🚀
+## Background
 
-I'm an avid learner with a strong interest in science and a background in competitive swimming. I hold an associate's degree in web development and am currently pursuing a bachelor's in cybersecurity, which I continue to build upon with real-world projects and hands-on exercises.
+I hold an undergraduate degree in cybersecurity and am currently pursuing a graduate degree in computer science, which I chose deliberately to build deeper technical depth alongside my security background. I'm hoping to pursue a graduate project applying the CCSDS's updated security guidelines to a satellite-to-ground (and ground-to-satellite) communications implementation, pending approval.
 
-I had the unique experience of participating in the cyberwarfare component of **Northern Strike**, where I honed my skills in defensive and offensive security strategies. Currently, I'm working on a comprehensive cybersecurity application, **Aegis**, aimed at providing both Blue Team and Red Team tools in a project-based workflow environment.
+Before security, I worked in web development, which still shows up in how I build tooling today — practical, usable interfaces over security tools that are otherwise easy to leave as scripts only their author can run.
 
----
+## Current Work
 
-## Current Projects 🛠️
+Projects below are published when they're in a state I'd stand behind in an interview — not before. Deeper or unfinished work is discussed on my [website] and in conversation, not published here until it's ready.
 
-### Aegis
+(This section will list projects as they reach a public-ready state.)
 
-**Aegis** is an Electron-based cybersecurity app, built with C++ for backend speed and TypeScript in the frontend. It's designed to support both API-based and command-line workflows, providing tools for both offensive and defensive measures. Aegis includes:
+## Contact
 
-- Project-based workflows for organized Red Team/Blue Team assessments
-- Detailed and overview reports with space for manually inserted steps
-- Node.js integration with a C++ API fuzzer for rigorous endpoint testing
-- PostgreSQL database setup for future deployment possibilities
-- And many many more coming soon!
 
-### Mlight
-
-A machine learning library in c 
-
-### Personal Website
-
-A professional resume website with a tech-themed, terminal-style design. It features interactive project cards, hoverable logos for skill representation, and downloadable resume functionality.
-
----
-
-## Technical Skills 🧰
-
-- **Languages:** C, C++, JavaScript, TypeScript, Python, SQL
-- **Frameworks & Libraries:** Node.js, Electron, PostgreSQL, Next.js
-- **Tools:** GitHub, Visual Studio Code, Vercel (for deployments)
-
-I'm experienced in developing efficient web APIs, integrating cybersecurity tooling into applications, and working in environments that demand both attention to detail and high performance.
-
----
-
-## Connect with Me 🌐
-
-- **LinkedIn:** [linkedin.com/in/jefleroux](https://www.linkedin.com/in/jef-leroux-19081b221/)
-- **Portfolio:** [jef-leroux-portfolio](https://jef-leroux-portfolio.vercel.app/)
-- **Email:** jef.leroux02@gmail.com
-
----
-
-Thanks for stopping by, and feel free to check out my repositories. I'm always open to feedback, collaboration, and connecting with other developers and security enthusiasts!
+LinkedIn: [link]
+Email: jef.leroux02@gmail.com

@@ -19,5 +19,5 @@ Projects below are published when they're in a state I'd stand behind in an inte
 ## Contact
 
 
-LinkedIn: https://www.linkedin.com/in/jef-leroux-19081b221/
+LinkedIn: https://www.linkedin.com/in/jef-leroux-19081b221/    
 Email: jef.leroux02@gmail.com
